@@ -1,0 +1,16 @@
+#[ubuntu20]
+#ubuntu20.04
+
+#[ubuntu21]
+#ubuntu21.10
+
+[ubuntu22]
+ubuntu22.04
+
+[redhat35]
+fedora35
+
+#[all:children]
+#ubuntu20.04
+#ubuntu21.10
+#ubuntu22.04
