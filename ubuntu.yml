@@ -33,6 +33,10 @@
         - vagrant
         - notepadqq
         - net-tools
+        - vlc
+        - gimp 
+        - gparted 
+        - 0ad 
 
     - block:
         - name: Verify if Oh-My-zsh is installed
